@@ -12,7 +12,7 @@ Required Componenets to run the Application
 
 ## Installation or required Components
 
-1. Python 3.X.
+1. Python 3.X. [ import modules (googleapiclient, numpy, pandas) if not available ] 
 2. Google Youtube API access Key.
 
 ## File Structure:
