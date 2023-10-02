@@ -22,7 +22,8 @@ Required Componenets to run the Application
 3. youtube_eng_score.py - Python program application file for calculating the engagement score
 4. country-codes_csv.csv - Contains the country code mapping as input to youtube.search().list() API
 5. YT_engagement_score.ipynb - Jupyter file for ease of code expansion
-
+6. Youtube Eng score.drawio.pdf - Contains the flow daigram of the application program
+   
 ## Input required for the program application
 
 1. Edit the list of Keywords in a keywords.xlsx file.
