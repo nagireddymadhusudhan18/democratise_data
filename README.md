@@ -24,7 +24,7 @@ Required Componenets to run the Application
 5. YT_engagement_score.ipynb - Jupyter file for ease of code expansion
 6. Youtube Eng score.drawio.pdf - Contains the flow daigram of the application program
    
-## Input required for the program application
+## Input required for the application program
 
 1. Edit the list of Keywords in a keywords.xlsx file.
 2. List of country's for slicing the engagement score for given set of keywords.
