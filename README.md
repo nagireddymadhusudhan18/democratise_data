@@ -12,7 +12,7 @@ Required Componenets to run the Application
 
 ## Installation or required Components
 
-1. Python 3.X.
+1. Python 3.X. [ import modules (googleapiclient, numpy, pandas) if not available ] 
 2. Google Youtube API access Key.
 
 ## File Structure:
@@ -22,8 +22,9 @@ Required Componenets to run the Application
 3. youtube_eng_score.py - Python program application file for calculating the engagement score
 4. country-codes_csv.csv - Contains the country code mapping as input to youtube.search().list() API
 5. YT_engagement_score.ipynb - Jupyter file for ease of code expansion
-
-## Input required for the program application
+6. Youtube Eng score.drawio.pdf - Contains the flow daigram of the application program
+   
+## Input required for the application program
 
 1. Edit the list of Keywords in a keywords.xlsx file.
 2. List of country's for slicing the engagement score for given set of keywords.
