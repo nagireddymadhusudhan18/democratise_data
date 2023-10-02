@@ -1,4 +1,4 @@
-API_KEY = "AIzaSyAUUBm2VgTcloQ4mjdYCm4t59rKP_iNdvY"
+API_KEY = ""
 COUNTRY_SLICE = "IN,US"
 CATEGORY_SLICE = "snacks,Bevarages,Alcoholic Bevarages"
 
